@@ -15,7 +15,7 @@ This is a simple web-based calculator application built using HTML, CSS, and Jav
 
 ## Demo
 
-You can try the calculator app live on [GitHub Pages](#).
+You can try the calculator app live on [GitHub Pages](#https://ghostrider1122.github.io/Calculator-Web-App/).
 
 ## Installation
 
